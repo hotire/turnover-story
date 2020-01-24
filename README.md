@@ -27,11 +27,13 @@
 
 ## 2018
 
-[hotire 카카오 이직이야기](https://blog.naver.com/gngh0101/221295353117) 
+- [hotire 카카오 이직이야기](https://blog.naver.com/gngh0101/221295353117) 
 
 ## 2019
 
-[hotire 라인 이직이야기](https://blog.naver.com/gngh0101/221693497027) 
+- [hotire 라인 이직이야기](https://blog.naver.com/gngh0101/221693497027) 
+
+- [Jin 두번의 이직이야기](https://jins-dev.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%91%90%EB%B2%88%EC%9D%98-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 
 
 ## 2020
@@ -44,5 +46,5 @@
 
 ### Contributors
 
-[hotire](https://github.com/hotire)
+- [hotire](https://github.com/hotire)
 
