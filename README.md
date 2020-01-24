@@ -43,6 +43,8 @@
 
 - [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
 
+- [demo 의 2019 회고](https://demoversion.tistory.com/m/71)
+
 ## 2020
 
 
@@ -54,4 +56,5 @@
 ### Contributors
 
 - [hotire](https://github.com/hotire)
+- [demo](https://github.com/vljh246v)
 
