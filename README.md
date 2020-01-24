@@ -41,6 +41,7 @@
 
 - [문과생의 카카오 개발자 이직기](https://zorba91.tistory.com/270) 
 
+- [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
 
 ## 2020
 
