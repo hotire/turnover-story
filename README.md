@@ -18,6 +18,8 @@
 
 - [개발자에게 이직이란](https://brunch.co.kr/@supims/4?fbclid=IwAR3MWOdYvxu0wAXTPEtFK1YdLRfyjd9DugRygwkdKtm4ovn7G8IuQyJnvsc)
 
+- [회사 생활 5년차 이직이란 무엇일까?](https://busy.org/@newlife14/5)
+
 ```
 ```
 
