@@ -18,20 +18,23 @@
 
 - [개발자에게 이직이란](https://brunch.co.kr/@supims/4?fbclid=IwAR3MWOdYvxu0wAXTPEtFK1YdLRfyjd9DugRygwkdKtm4ovn7G8IuQyJnvsc)
 
+```
+```
 
-### 2017
+
+## 2017
 
 
-### 2018
+## 2018
 
 [hotire 카카오 이직이야기](https://blog.naver.com/gngh0101/221295353117) 
 
-### 2019
+## 2019
 
 [hotire 라인 이직이야기](https://blog.naver.com/gngh0101/221693497027) 
 
 
-### 2020
+## 2020
 
 
 
