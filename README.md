@@ -20,6 +20,8 @@
 
 - [회사 생활 5년차 이직이란 무엇일까?](https://busy.org/@newlife14/5)
 
+- [이직에 대해서 알아둬야 할 사실](https://brunch.co.kr/@dol74/67)
+
 ```
 ```
 
