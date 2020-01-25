@@ -27,11 +27,14 @@
 
 
 ## 2017
+
 - [비전공 출신 SI개발자 우형이야기](https://www.slideshare.net/ssuser69b63d1/ss-82150195)
 
 ## 2018
 
 - [hotire 카카오 이직이야기](https://blog.naver.com/gngh0101/221295353117) 
+
+- [Gap Year 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
 
 ## 2019
 
