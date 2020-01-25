@@ -36,6 +36,8 @@
 
 - [Gap Year 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
 
+- [동욱님 3번째 직장에 오기까지](https://jojoldu.tistory.com/277)
+
 ## 2019
 
 - [hotire 라인 이직이야기](https://blog.naver.com/gngh0101/221693497027) 
