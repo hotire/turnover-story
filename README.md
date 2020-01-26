@@ -22,6 +22,8 @@
 
 - [이직에 대해서 알아둬야 할 사실](https://brunch.co.kr/@dol74/67)
 
+- [이직의 기술](https://weekly.donga.com/List/3/all/11/526552/1)
+
 ```
 ```
 
