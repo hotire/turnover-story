@@ -54,6 +54,8 @@
 
 - [demo 의 카카오 이직 이야기](https://demoversion.tistory.com/m/55)
 
+- [개발자 싱가폴로 이직하기](https://krksap.tistory.com/1640)
+
 ## 2020
 
 
