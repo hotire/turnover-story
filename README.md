@@ -40,6 +40,8 @@
 
 - [동욱님 3번째 직장에 오기까지](https://jojoldu.tistory.com/277)
 
+- [신동성님 개발자 이직가이드](https://brunch.co.kr/@adrenalinee31/6)
+
 ## 2019
 
 - [hotire 라인 이직이야기](https://blog.naver.com/gngh0101/221693497027) 
