@@ -58,6 +58,8 @@
 
 - [개발자 싱가폴로 이직하기](https://krksap.tistory.com/1640)
 
+- [첫 퇴사, 첫 이직을 결심하다](https://brunch.co.kr/@zaceun/1)
+
 ## 2020
 
 
