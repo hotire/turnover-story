@@ -42,6 +42,8 @@
 
 - [신동성님 개발자 이직가이드](https://brunch.co.kr/@adrenalinee31/6)
 
+- [요우의 개발자 이직 대탐험](https://luckyyowu.tistory.com/382)
+
 ## 2019
 
 - [hotire 라인 이직이야기](https://blog.naver.com/gngh0101/221693497027) 
