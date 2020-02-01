@@ -64,6 +64,8 @@
 
 - [첫 퇴사, 첫 이직을 결심하다](https://brunch.co.kr/@zaceun/1)
 
+- [야놀자를 떠나며...](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/)
+
 ## 2020
 
 
