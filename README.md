@@ -24,6 +24,8 @@
 
 - [이직의 기술](https://weekly.donga.com/List/3/all/11/526552/1)
 
+- [동료의 이직](https://brunch.co.kr/@yumileewyky/130)
+
 ```
 ```
 
