@@ -70,6 +70,7 @@
 
 ## 2020
 
+- [26세 비전공 지방 국비학원 수료 및 SI취업 후기](https://okky.kr/article/674123)
 
 
 ## Contribution
