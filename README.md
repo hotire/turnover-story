@@ -26,6 +26,9 @@
 
 - [동료의 이직](https://brunch.co.kr/@yumileewyky/130)
 
+- [우아한 형제들, 이직 초보 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
+
+
 ```
 ```
 
