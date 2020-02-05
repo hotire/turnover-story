@@ -48,6 +48,8 @@
 
 - [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT 기업 도전기](https://github.com/jojoldu/review/tree/master/OKKY_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EC%9D%B4%EC%A7%81%EA%B8%B0)
 
+- [실력이 부족한 주니어 개발자의 이직기](https://dduddublog.tistory.com/m/52)
+
 ## 2019
 
 - [hotire 라인 이직이야기](https://blog.naver.com/gngh0101/221693497027) 
