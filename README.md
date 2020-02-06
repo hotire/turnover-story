@@ -28,6 +28,7 @@
 
 - [우아한 형제들, 이직 초보 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
 
+- [이직, 언제 어떻게 해야하는가?](https://medium.com/@justin_jin/%EC%9D%B4%EC%A7%81-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%EA%B0%80-bf4648345d70)
 
 ```
 ```
