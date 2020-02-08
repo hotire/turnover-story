@@ -54,6 +54,8 @@
 
 - [실력이 부족한 주니어 개발자의 이직기](https://dduddublog.tistory.com/m/52)
 
+- [5년차 안드로이드 개발자의 첫 이직](https://medium.com/@maryangmin/5%EB%85%84%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-6004ccc0ca4f)
+
 ## 2019
 
 - [hotire 라인 이직이야기](https://blog.naver.com/gngh0101/221693497027) 
