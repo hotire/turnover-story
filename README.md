@@ -37,6 +37,7 @@
 ## 2017
 
 - [비전공 출신 SI개발자 우형이야기](https://www.slideshare.net/ssuser69b63d1/ss-82150195)
+- [카카오에서의 2년](https://brunch.co.kr/@aria-grande/1)
 
 ## 2018
 
