@@ -38,6 +38,7 @@
 
 - [비전공 출신 SI개발자 우형이야기](https://www.slideshare.net/ssuser69b63d1/ss-82150195)
 - [카카오에서의 2년](https://brunch.co.kr/@aria-grande/1)
+- [그들은 왜 대기업에서 스타트업으로 이직했는가??](http://blog.naver.com/PostView.nhn?blogId=wantedlab&logNo=221161426909&parentCategoryNo=&categoryNo=41&viewDate=&isShowPopularPosts=false&from=postView)
 
 ## 2018
 
