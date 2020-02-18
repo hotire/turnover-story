@@ -82,6 +82,8 @@
 
 - [26세 비전공 지방 국비학원 수료 및 SI취업 후기](https://okky.kr/article/674123)
 
+- [중소기업에서 대기업 이직](https://okky.kr/article/678247)
+
 
 ## Contribution
 
