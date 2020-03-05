@@ -86,6 +86,7 @@
 
 - [killi8n님의 나의 이직기](https://velog.io/@killi8n/%EB%82%98%EC%9D%98-%EC%9D%B4%EC%A7%81%EA%B8%B0)
 
+- [50번의 입사지원,누구에게나 길은 있더라](https://brunch.co.kr/@cooljhjung/123)
 
 ## Contribution
 
