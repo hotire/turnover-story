@@ -88,6 +88,8 @@
 
 - [50번의 입사지원,누구에게나 길은 있더라](https://brunch.co.kr/@cooljhjung/123)
 
+- [IOS 개발자 싱가폴 이직기](https://soojin.ro/blog/singapore)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
