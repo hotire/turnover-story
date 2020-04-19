@@ -90,6 +90,8 @@
 
 - [IOS 개발자 싱가폴 이직기](https://soojin.ro/blog/singapore)
 
+- [20대 초반 NLP Researcher의 구직이야기(연봉 2100만원 인상)](https://hipgyung.tistory.com/106)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
