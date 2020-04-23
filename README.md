@@ -92,6 +92,8 @@
 
 - [20대 초반 NLP Researcher의 구직이야기(연봉 2100만원 인상)](https://hipgyung.tistory.com/106)
 
+- [이직을 만만하게 생각했던 엔지니어의 이야기 jbee](https://url.kr/rdnwqR)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
