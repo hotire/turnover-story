@@ -30,6 +30,8 @@
 
 - [이직, 언제 어떻게 해야하는가?](https://c11.kr/dqnd)
 
+- [불행한 천국, 이직](https://jojoldu.tistory.com/498)
+
 ```
 ```
 
