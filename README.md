@@ -98,6 +98,8 @@
 
 - [SI 1년차에 N사로 이직 이야기](https://url.kr/zCVBHZ)
 
+- [덕업일치! 두 번째 직장 '마이리얼트립'에 오기까지](https://zorba91.tistory.com/310)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
