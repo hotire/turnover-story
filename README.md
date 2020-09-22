@@ -100,6 +100,9 @@
 
 - [덕업일치! 두 번째 직장 '마이리얼트립'에 오기까지](https://zorba91.tistory.com/310)
 
+- [2020 상반기 LINE 신입 개발자 3인의 WOW한 입사기!](https://engineering.linecorp.com/ko/blog/2020-first-half-new-liners-interview/)
+
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
