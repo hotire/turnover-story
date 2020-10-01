@@ -102,6 +102,8 @@
 
 - [2020 상반기 LINE 신입 개발자 3인의 WOW한 입사기!](https://engineering.linecorp.com/ko/blog/2020-first-half-new-liners-interview/)
 
+- [개발자로 이직하기(feat. Toss NEXT 개발자 채용를 마치며)](https://vo.la/523s8)
+
 
 ## Contribution
 
