@@ -104,6 +104,8 @@
 
 - [개발자로 이직하기(feat. Toss NEXT 개발자 채용를 마치며)](https://vo.la/523s8)
 
+- [스타트업에서 대기업으로, 카카오 경력 이직 후기](https://brunch.co.kr/@geeksbaek/2)
+
 
 ## Contribution
 
