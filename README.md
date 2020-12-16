@@ -106,6 +106,7 @@
 
 - [스타트업에서 대기업으로, 카카오 경력 이직 후기](https://brunch.co.kr/@geeksbaek/2)
 
+- [Outsider 2020 이직 이야기](https://blog.outsider.ne.kr/1518)
 
 ## Contribution
 
