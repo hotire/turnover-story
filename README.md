@@ -98,6 +98,8 @@
 
 - [SI 1년차에 N사로 이직 이야기](https://url.kr/zCVBHZ)
 
+- [Outsider 2020 이직 이야기](https://blog.outsider.ne.kr/1518)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
