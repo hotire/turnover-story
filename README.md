@@ -98,6 +98,14 @@
 
 - [SI 1년차에 N사로 이직 이야기](https://url.kr/zCVBHZ)
 
+- [덕업일치! 두 번째 직장 '마이리얼트립'에 오기까지](https://zorba91.tistory.com/310)
+
+- [2020 상반기 LINE 신입 개발자 3인의 WOW한 입사기!](https://engineering.linecorp.com/ko/blog/2020-first-half-new-liners-interview/)
+
+- [개발자로 이직하기(feat. Toss NEXT 개발자 채용를 마치며)](https://vo.la/523s8)
+
+- [스타트업에서 대기업으로, 카카오 경력 이직 후기](https://brunch.co.kr/@geeksbaek/2)
+
 - [Outsider 2020 이직 이야기](https://blog.outsider.ne.kr/1518)
 
 ## Contribution
