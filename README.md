@@ -108,6 +108,10 @@
 
 - [Outsider 2020 이직 이야기](https://blog.outsider.ne.kr/1518)
 
+## 2021
+
+- [웹 프론트엔드 개발자 이직기 -2 - Yohan's Developer Diary](https://yohanpro.com/posts/programming/career/2)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
