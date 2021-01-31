@@ -112,6 +112,8 @@
 
 - [웹 프론트엔드 개발자 이직기 -2 - Yohan's Developer Diary](https://yohanpro.com/posts/programming/career/2)
 
+- [2년차 개발자가 이직을 하면서 배우고 느낀점](https://okky.kr/article/861866)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
