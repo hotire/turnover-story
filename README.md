@@ -94,7 +94,7 @@
 
 - [20대 초반 NLP Researcher의 구직이야기(연봉 2100만원 인상)](https://hipgyung.tistory.com/106)
 
-- [이직을 만만하게 생각했던 엔지니어의 이야기 jbee](https://url.kr/rdnwqR)
+- [이직을 만만하게 생각했던 엔지니어의 이야기 jbee](https://jbee.io/career/2020-turnover-0/?fbclid=IwAR00QmjOpSesapqjuPrhAOTNB4M8AfozB-AgWb8YOpa85NL7j-r9xEpqJXk)
 
 - [SI 1년차에 N사로 이직 이야기](https://url.kr/zCVBHZ)
 
@@ -113,6 +113,8 @@
 - [웹 프론트엔드 개발자 이직기 -2 - Yohan's Developer Diary](https://yohanpro.com/posts/programming/career/2)
 
 - [2년차 개발자가 이직을 하면서 배우고 느낀점](https://okky.kr/article/861866)
+
+- [이직.log('SoYoung')](https://so-so.dev/essay/2021-turnover/)
 
 ## Contribution
 
