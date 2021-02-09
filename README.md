@@ -116,6 +116,8 @@
 
 - [이직.log('SoYoung')](https://so-so.dev/essay/2021-turnover/)
 
+- [이직 면접 이야기](https://jaeyo.github.io/job-interview/)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
