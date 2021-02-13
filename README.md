@@ -35,6 +35,9 @@
 ```
 ```
 
+## 2016
+
+- [이직 면접 이야기](https://jaeyo.github.io/job-interview/)
 
 ## 2017
 
@@ -115,8 +118,6 @@
 - [2년차 개발자가 이직을 하면서 배우고 느낀점](https://okky.kr/article/861866)
 
 - [이직.log('SoYoung')](https://so-so.dev/essay/2021-turnover/)
-
-- [이직 면접 이야기](https://jaeyo.github.io/job-interview/)
 
 ## Contribution
 
