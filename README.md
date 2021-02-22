@@ -111,6 +111,8 @@
 
 - [Outsider 2020 이직 이야기](https://blog.outsider.ne.kr/1518)
 
+- [카카오 경력 이직기](https://diana-an.tistory.com/category/Diana/career)
+
 ## 2021
 
 - [웹 프론트엔드 개발자 이직기 -2 - Yohan's Developer Diary](https://yohanpro.com/posts/programming/career/2)
