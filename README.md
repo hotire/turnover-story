@@ -121,6 +121,8 @@
 
 - [이직.log('SoYoung')](https://so-so.dev/essay/2021-turnover/)
 
+- [이제서야 써보는 면접후기 1 - NHN Service](https://yuddomack.tistory.com/entry/%EC%9D%B4%EC%A0%9C%EC%84%9C%EC%95%BC-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EB%A9%B4%EC%A0%91%ED%9B%84%EA%B8%B0-1-NHN-Service?category=926148)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
