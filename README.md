@@ -113,7 +113,7 @@
 
 - [카카오 경력 이직기](https://diana-an.tistory.com/category/Diana/career)
 
-- [라인 FE 이직기](https://promm.dev/라인-이직기/)
+- [라인 FE 이직기](https://promm.dev/daliy/%EB%9D%BC%EC%9D%B8-%EC%9D%B4%EC%A7%81%EA%B8%B0/)
 
 ## 2021
 
