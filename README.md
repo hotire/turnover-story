@@ -129,6 +129,8 @@
 
 - [sizplay의 주니어 프론트엔드 개발자 이직 팁](https://www.sizplay.dev/Interview/%EC%A3%BC%EB%8B%88%EC%96%B4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%8C%81/)
 
+- [주니어 개발자의 이직 이야기](https://private-space.tistory.com/111)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
