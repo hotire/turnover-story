@@ -131,6 +131,8 @@
 
 - [주니어 개발자의 이직 이야기](https://private-space.tistory.com/111)
 
+- [2021 카카오뱅크 경력 공채 : 백엔드(Backend) 개발자 이직 후기](https://goodgid.github.io/Reviews-of-moving-the-company-to-Kakao-Bank/)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
