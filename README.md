@@ -133,6 +133,8 @@
 
 - [2021 카카오뱅크 경력 공채 : 백엔드(Backend) 개발자 이직 후기](https://goodgid.github.io/Reviews-of-moving-the-company-to-Kakao-Bank/)
 
+- [[LINE] 라인 2021년 상반기 공채 후기](https://doljae.tistory.com/157#comment6131717)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
