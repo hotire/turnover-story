@@ -32,6 +32,8 @@
 
 - [불행한 천국, 이직](https://jojoldu.tistory.com/498)
 
+- [개발자에게 좋은 이직/퇴사를 위한 꿀팁](https://okky.kr/article/1025477)
+
 ```
 ```
 
