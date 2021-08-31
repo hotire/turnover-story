@@ -135,6 +135,8 @@
 
 - [[LINE] 라인 2021년 상반기 공채 후기](https://doljae.tistory.com/157#comment6131717)
 
+- [5년차 프론트엔드 개발자 이직 후기](https://velog.io/@bluestragglr/%EC%96%B4%EC%A9%8C%EB%8B%A4-5%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
