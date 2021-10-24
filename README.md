@@ -139,6 +139,8 @@
 
 - [5년차 프론트엔드 개발자 이직 후기](https://velog.io/@bluestragglr/%EC%96%B4%EC%A9%8C%EB%8B%A4-5%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0)
 
+- [꽉 찬 1년차 주니어 백엔드 개발자의 SI 탈출기](https://beoum.github.io/%EA%B0%9C%EB%B0%9C%ED%9A%8C%EA%B3%A0/%EA%BD%89-%EC%B0%AC-1%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-SI-%ED%83%88%EC%B6%9C%EA%B8%B0/)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
