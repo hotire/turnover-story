@@ -141,6 +141,8 @@
 
 - [꽉 찬 1년차 주니어 백엔드 개발자의 SI 탈출기](https://beoum.github.io/%EA%B0%9C%EB%B0%9C%ED%9A%8C%EA%B3%A0/%EA%BD%89-%EC%B0%AC-1%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-SI-%ED%83%88%EC%B6%9C%EA%B8%B0/)
 
+- [1년차 주니어 프론트 개발자 이직 후기](https://velog.io/@ohaeseong/1%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0)
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
