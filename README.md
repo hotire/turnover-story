@@ -148,6 +148,7 @@
 ## 2022
 
 - [DevOps 3년차 경력 이직 도전기(feat. 네카당)](https://ykarma1996.tistory.com/186)
+- [우아한 형제들 이직후기 : 구루미님](https://gurumee92.tistory.com/320)
 
 ## Contribution
 
