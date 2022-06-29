@@ -149,6 +149,7 @@
 
 - [DevOps 3년차 경력 이직 도전기(feat. 네카당)](https://ykarma1996.tistory.com/186)
 - [우아한 형제들 이직후기 : 구루미님](https://gurumee92.tistory.com/320)
+- [네이버를 떠나 당근마켓에 합류한 이야기](https://readystory.tistory.com/217)
 
 ## Contribution
 
