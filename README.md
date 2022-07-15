@@ -150,6 +150,7 @@
 - [DevOps 3년차 경력 이직 도전기(feat. 네카당)](https://ykarma1996.tistory.com/186)
 - [우아한 형제들 이직후기 : 구루미님](https://gurumee92.tistory.com/320)
 - [네이버를 떠나 당근마켓에 합류한 이야기](https://readystory.tistory.com/217)
+- [길고 긴 토스 뱅크(toss bank)로 이직 이야기 - 0 (준비)](https://blog.naver.com/gngh0101/222810484797)
 
 ## Contribution
 
