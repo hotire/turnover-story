@@ -34,6 +34,8 @@
 
 - [개발자에게 좋은 이직/퇴사를 위한 꿀팁](https://okky.kr/article/1025477)
 
+- [개발자 추천으로 이직하기-절망편](https://flatsun.tistory.com/3446)
+
 ```
 ```
 
