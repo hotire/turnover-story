@@ -158,6 +158,8 @@
 
 ### 2023
 
+- [신입 개발자 이직 준비하기](https://blex.me/@baealex/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
+
 
 ## Contribution
 
