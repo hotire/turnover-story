@@ -165,6 +165,10 @@
 - [2년차 백엔드 개발자의 첫 이직 후기: 네이버로!](https://eocoding.tistory.com/128)
 - [이직 할거야? 카카오페이증권 합격 후기](https://velog.io/@haryan248/%EC%9D%B4%EC%A7%81-%ED%95%A0%EA%B1%B0%EC%95%BC-feat.-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0)
 
+### 2025
+- [길고 긴 토스 뱅크(toss bank)로 이직 이야기 - 6 (2년의 회고록)](https://blog.naver.com/gngh0101/223741005991)
+  
+
 ## Contribution
 
 본인의 이직 이야기를 공유해서 많은 이들에게 용기를 주세요. :)
